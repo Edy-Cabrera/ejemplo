@@ -12,6 +12,17 @@ public class Huesped implements Serializable{
     private String Telefono;
     private String Nit;
 private String Nit2;
+private String Nit3;
+
+    public String getNit3() {
+        return Nit3;
+    }
+
+    public void setNit3(String Nit3) {
+        this.Nit3 = Nit3;
+    }
+
+
 
     public String getNit2() {
         return Nit2;
