@@ -11,6 +11,7 @@ public class Habitacion implements Serializable{
     private String Capacidad;
     private String Descripcion;
     private String color;
+    private String color 2;
 
     public String getColor() {
         return color;
